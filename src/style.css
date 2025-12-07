@@ -1,0 +1,20 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f9f9f9;
+}
+
+.p-4 { padding: 1rem; }
+.text-sm { font-size: 0.875rem; }
+.bg-green-100 { background-color: #d4edda; }
+.border-green-500 { border-color: #28a745; }
+.text-green-700 { color: #155724; }
+.text-gray-500 { color: #6c757d; }
+.text-gray-700 { color: #495057; }
+.hover\:text-gray-700:hover { color: #495057; }
+.border-l-4 { border-left-width: 4px; }
+.flex { display: flex; }
+.justify-between { justify-content: space-between; }
+.items-center { align-items: center; }
+.ml-4 { margin-left: 1rem; }
